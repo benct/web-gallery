@@ -39,9 +39,9 @@ if (isset($_GET['generate']))
     <link rel="stylesheet" href="photoswipe/default-skin/default-skin.css" />
     <link rel="stylesheet" href="photoswipe/photoswipe.css" />
 
-    <script src="photoswipe/photoswipe.js" type="text/javascript"></script>
-    <script src="photoswipe/photoswipe-ui-default.js" type="text/javascript"></script>
-    <script src="photoswipe/photoswipe-dom.js" type="text/javascript"></script>
+    <script src="photoswipe/photoswipe.min.js" type="text/javascript"></script>
+    <script src="photoswipe/photoswipe-ui-default.min.js" type="text/javascript"></script>
+    <script src="photoswipe/photoswipe-dom.min.js" type="text/javascript"></script>
 </head>
 <body id="top">
 
