@@ -6,7 +6,7 @@ PHP classes and functions that parse album directories for images and generates 
 
 ## Usage
 
-Upload images to the images/**albumname**/ directories and open www.yoursite.com/path/here/?generate to
+Upload images to the images/**albumname**/ directories and open `www.yoursite.com/path/to/index/?generate` to
 automatically generate thumbnails for all new images.
 
 ## Folders
